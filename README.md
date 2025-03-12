@@ -2,7 +2,7 @@
 title: "AI dan AR dalam Gamifikasi SIAR Halal apps: Katalisasi Pertumbuhan Sosial Ekonomi dalam Kerangka Digital Halal"
 author: "ir_hafidz"
 date: "13/03/2025"
-output: cleaned_data, sentimentsiarhalal.ipynb
+output: raw_data (moneyspent_cleaned.xlsx) cleaned_data (out.csv), sentimentsiarhalal.ipynb
 ---
 
 ## Repository Structure
