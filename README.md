@@ -2,7 +2,7 @@
 title: "AI dan AR dalam Gamifikasi SIAR Halal apps: Katalisasi Pertumbuhan Sosial Ekonomi dalam Kerangka Digital Halal"
 author: "ir_hafidz"
 date: "13/03/2025"
-output: raw_data (moneyspent_cleaned.xlsx) cleaned_data (out.csv), sentimentsiarhalal.ipynb
+output: raw_data (moneyspent_cleaned.csv) cleaned_data (out.csv), sentimentsiarhalal.ipynb
 ---
 
 ## Repository Structure
@@ -10,7 +10,7 @@ output: raw_data (moneyspent_cleaned.xlsx) cleaned_data (out.csv), sentimentsiar
 ```
 📂 Sentiment-Analysis-SIARHalal-MSMEs
  ├── data/                # Raw and processed datasets
- │   ├── moneyspent_cleaned.xlsx      # Original dataset
+ │   ├── moneyspent_cleaned.csv      # Original dataset
  │   ├── out.csv    # Processed dataset with sentiment scores
  │
  ├── notebooks/           # Jupyter Notebooks for analysis
