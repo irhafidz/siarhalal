@@ -27,7 +27,7 @@ This repository is part of the research project **"AI dan AR dalam Gamifikasi SI
 ### **Research Theme:**
 - **Sub-tema 3:** Pemanfaatan AI untuk Mendorong Inklusi Ekonomi khususnya kepada pelaku ekonomi kecil dan menengah
 
-This project focuses on **leveraging AI and AR technologies** to enhance the gamification experience in **SIAR Halal apps**, aiming to **boost digital halal economy growth** and improve economic inclusion, particularly for **small and medium enterprises (UMKM)**.
+This project focuses on **leveraging AI and AR technologies** to enhance the gamification experience in **SIAR Halal apps**, aiming to **boost digital halal economy growth** and improve economic inclusion, particularly for **small and medium enterprises (MSMEs)**.
 
 Key features of this project include:
 - **Preprocessing user reviews** (cleaning, stopword removal, tokenization)
@@ -39,7 +39,7 @@ The primary goal is to identify trends in **customer feedback**, highlight areas
 ## Dataset
 
 The dataset consists of user-generated reviews for multiple food stalls, including:
-- `umkm`: Name of the food stall
+- `msme`: Name of the food stall
 - `Number_of_Visits`: Total visits recorded
 - `Number_of_Feedbacks`: Number of customer reviews
 - `Average_Rating`: Average rating score
